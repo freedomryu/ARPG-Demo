@@ -858,8 +858,13 @@ MonoBehaviour:
   m_text: Button
   m_isRightToLeft: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_fontAsset: {fileID: 11400000, guid: 59648fb0946fe0b47af0147bb0d1eb88, type: 2}
   m_sharedMaterial: {fileID: -5711060731012143181, guid: 59648fb0946fe0b47af0147bb0d1eb88, type: 2}
+=======
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+>>>>>>> parent of 54daf3f (unity_class2)
 =======
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
