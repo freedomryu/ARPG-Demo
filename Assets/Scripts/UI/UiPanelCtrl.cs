@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+[RequireComponent(typeof(CanvasGroup))]
 public class UiPanelCtrl : MonoBehaviour
 {
     /// <summary>
